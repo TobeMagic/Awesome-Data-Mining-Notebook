@@ -31,9 +31,9 @@
 
 ### Apriori 算法
 
->  Apriori算法的名称来源于拉丁语词汇"priori"，意为"在之前"或"在前面"。这个名称反映了Apriori算法的基本思想，即通过先前的频繁项集来生成更大的候选项集，并通过剪枝操作来减少搜索空间。
+>  Apriori算法的名称来源于拉丁语词汇"priori"，意为"在之前"或"在前面"。这个名称反映了Apriori算法的基本思想，即**通过先前的频繁项集来生成更大的候选项集**，并通过剪枝操作来减少搜索空间。
 >
->  该算法最早由R.Agrawal和R.Srikant在1994年的论文《Fast Algorithms for Mining Association Rules》中提出。在该论文中，作者提出了一种基于频繁项集的关联规则挖掘方法，其中的核心思想就是利用"先验知识"（prior knowledge）来加速挖掘过程。
+>  该算法最早由R.Agrawal和R.Srikant在1994年的论文《Fast Algorithms for Mining Association Rules》中提出。在该论文中，作者提出了一种基于频繁项集的关联规则挖掘方法，其中的核心思想就是**利用"先验知识"（prior knowledge）来加速挖掘过程**。
 >
 
 下面详细介绍Apriori算法的步骤和数学推导：
